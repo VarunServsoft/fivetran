@@ -1,0 +1,9 @@
+version: 2
+
+Source:
+  - name: fivetran
+    description: servsoft
+  database: PC_FIVETRAN_DB
+  Schema: GOOGLE_SHEETS_DEMO
+  Tables: 
+  - NAME: ORDERS  
